@@ -100,9 +100,9 @@ img{
 .hero .btn__span {
   color: #8FE3F9;
 }
-.hero__content__btns--btn__right btn {
+.hero .secondary--btn {
   background-color: #855FB1;
 }
-.hero__content__btns--btn__right:hover, .hero__content__btns--btn__right:focus {
+.hero .secondary--btn:hover, .hero .secondary--btn:focus {
   background-color: #9d7fc1;
 }
