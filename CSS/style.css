@@ -106,3 +106,18 @@ img{
 .hero .secondary--btn:hover, .hero .secondary--btn:focus {
   background-color: #9d7fc1;
 }
+.main {
+  padding: 25px;
+  z-index: 2;
+  position: relative;
+}
+.main .main__container {
+  margin-top: 65px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.main .main__container__img__image {
+  width: 100%;
+  border-radius: 8px;
+}
