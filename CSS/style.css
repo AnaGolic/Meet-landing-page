@@ -177,3 +177,26 @@ img{
   margin-top: 130px;
   background: white;
 }
+.footer {
+  width: 100%;
+  background: url("../ASSETS/mobile/image-footer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+}
+.footer .footer__container {
+  margin-top: -52px;
+  background-color: #4D96AD;
+  opacity: 0.9;
+  height: 100%;
+  padding-bottom: 50px;
+}
+.footer .footer__title {
+  font-size: 2rem;
+  text-align: center;
+  color: white;
+  padding-top: 96px;
+  line-height: 36px;
+  font-weight: 900;
+}
