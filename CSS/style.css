@@ -200,3 +200,11 @@ img{
   line-height: 36px;
   font-weight: 900;
 }
+.footer .footer__description {
+  text-align: center;
+  color: #ffffff;
+  font-size: 1.125rem;
+  line-height: 26px;
+  margin-top: 20px;
+  padding: 0 24px;
+}
