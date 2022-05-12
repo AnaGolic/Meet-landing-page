@@ -121,3 +121,16 @@ img{
   width: 100%;
   border-radius: 8px;
 }
+.main .main__span {
+  width: 56px;
+  height: 56px;
+  border: 1px solid #87879D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-size: 1rem;
+  font-weight: 900;
+  margin: auto;
+  position: relative;
+}
