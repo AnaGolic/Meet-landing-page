@@ -30,3 +30,8 @@ img{
   display: block;
   margin: 0 auto;
 }
+.hero__img__image {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
