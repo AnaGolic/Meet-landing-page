@@ -93,3 +93,7 @@ img{
   text-align: center;
   display: block;
 }
+.hero .hero__content__btns--btn:hover, .hero .hero__content__btns--btn:focus {
+  cursor: pointer;
+  background-color: #6eadbd;
+}
