@@ -52,3 +52,9 @@ img{
   display: block;
   width: 100%;
 }
+.hero .hero__content {
+  margin-top: 40px;
+  grid-area: content;
+  max-width: 450px;
+  margin: 40px auto 0;
+}
