@@ -37,4 +37,18 @@ img{
 }
 .hero {
   margin-top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas: "image1 image2" "content content";
+}
+.hero .hero__img1 {
+  grid-area: image1;
+}
+.hero .hero__img2 {
+  grid-area: image2;
+}
+.hero .hero__img__image {
+  display: block;
+  width: 100%;
 }
