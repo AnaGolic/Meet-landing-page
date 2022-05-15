@@ -234,3 +234,12 @@ img{
 .footer .btn__span {
   color: #d9b8ff;
 }
+
+@media screen and (min-width: 1280px) {
+  .main {
+    padding: 55px 165px;
+  }
+  .main .main__description {
+    margin: 65px auto 0;
+  }
+}
