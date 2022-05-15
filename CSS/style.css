@@ -326,3 +326,20 @@ img{
     background-size: cover;
   }
 }
+@media screen and (min-width: 1080px) {
+  .hero {
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: "image1 content image2";
+  }
+  .hero .hero__content__title {
+    font-size: 4rem;
+    line-height: 65px;
+    padding: 0px 0px 18px;
+  }
+  .hero .hero__img1 {
+    margin-left: -30px;
+  }
+  .hero .hero__img2 {
+    margin-right: -30px;
+  }
+}
