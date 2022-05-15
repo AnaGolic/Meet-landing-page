@@ -257,4 +257,46 @@ img{
     height: 100%;
     padding-bottom: 50px;
   }
+  .footer .footer__title {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    padding-top: 96px;
+    line-height: 36px;
+    font-weight: 900;
+  }
+  .footer .footer__description {
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.125rem;
+    line-height: 26px;
+    margin-top: 20px;
+    padding: 0 24px;
+  }
+  .footer .hero__content__btns--btn {
+    font-size: 1rem;
+    font-weight: 900;
+    line-height: 26px;
+    color: #ffffff;
+    background-color: #4D96A9;
+    border: 2px solid transparent;
+    padding: 14px 36px;
+    border-radius: 29px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 2rem auto;
+    background-color: #855FB1;
+    max-width: 20rem;
+  }
+  .footer .hero__content__btns--btn:hover, .footer .hero__content__btns--btn:focus {
+    cursor: pointer;
+    background-color: #6eadbd;
+  }
+  .footer .hero__content__btns--btn:hover, .footer .hero__content__btns--btn:focus {
+    background-color: #9d7fc1;
+  }
+  .footer .btn__span {
+    color: #d9b8ff;
+  }
 }
