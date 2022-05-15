@@ -300,3 +300,24 @@ img{
     color: #d9b8ff;
   }
 }
+
+@media screen and (min-width: 680px) {
+  .main {
+    padding: 24px 39px;
+  }
+  .main .main__container {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .main .span__one {
+    margin-top: 138px;
+  }
+  .main .main__description {
+    max-width: 573px;
+    margin: 50px auto 0;
+  }
+  .main .main__description__subtitle {
+    line-height: 44px;
+    font-size: 2.5rem;
+    padding: 0px 60px;
+  }
+}
