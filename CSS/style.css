@@ -320,4 +320,9 @@ img{
     font-size: 2.5rem;
     padding: 0px 60px;
   }
+  .footer {
+    background: url("../assets/tablet/image-footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
