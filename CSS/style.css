@@ -200,7 +200,7 @@ img{
   line-height: 36px;
   font-weight: 900;
 }
-.footer .footer__description {
+.footer .footer__summary {
   text-align: center;
   color: #ffffff;
   font-size: 1.125rem;
@@ -265,7 +265,7 @@ img{
     line-height: 36px;
     font-weight: 900;
   }
-  .footer .footer__description {
+  .footer .footer__summary {
     text-align: center;
     color: #ffffff;
     font-size: 1.125rem;
